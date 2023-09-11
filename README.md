@@ -4,7 +4,7 @@
 
 Welcome to the SparkleArt Jewelry Shopping Web Application repository! This web application provides a delightful shopping experience for jewelry enthusiasts, offering a wide range of exquisite jewelry pieces. Whether you're an artist looking to showcase your creations or a jewelry lover searching for the perfect piece, SparkleArt has something for you.
 
-![SparkleArt Logo](link-to-your-logo-image.png)
+![SparkleArt Logo]([https://logoipsum.com/artwork/296])
 
 ## Table of Contents
 - [Features](#features)

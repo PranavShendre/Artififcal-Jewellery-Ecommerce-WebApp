@@ -37,17 +37,21 @@ Follow these steps to set up the SparkleArt Jewelry Shopping Web Application loc
 
 1. **Clone the Repository**:  
 
-https://github.com/PranavShendre/Artififcal-Jewellery-Ecommerce-WebApp.git
+- https://github.com/PranavShendre/Artififcal-Jewellery-Ecommerce-WebApp.git
 
 2. **Install Dependencies**:  
 
-
+- cd sparkleart
+- npm install # for React.js frontend
+- mvn clean install # for Spring Boot backend
 
 3. **Configure the Database**:  
 - Create a MySQL database and configure the connection in the Spring Boot application.properties file.
 
 4. **Start the Application**: 
 
+- npm start # Start the React.js frontend
+- mvn spring-boot:run # Start the Spring Boot backend
 
 
 5. **Access the Application**:  
